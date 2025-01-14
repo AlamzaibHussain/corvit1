@@ -3,6 +3,8 @@ corvit company
 # corvit   Artificial inteligence
 - Github
 - Git 
-- course
+- course 
+-Ali 
+-Ahmad
 
 
